@@ -11,4 +11,8 @@ public class App {
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
     }
+
+    Book book1 = new Book("1948", "Geoge Orwell", 1949);
+  
+    
 }
