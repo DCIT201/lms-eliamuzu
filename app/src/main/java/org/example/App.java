@@ -12,5 +12,7 @@ public class App {
         System.out.println(new App().getGreeting());
     }
 
+    Book book1 = new Book("1948", "Geoge Orwell", 1949);
+  
     
 }
